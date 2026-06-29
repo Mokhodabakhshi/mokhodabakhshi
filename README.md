@@ -11,7 +11,7 @@ Interested in:
 
 # 📈 GitHub Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mokhodabakhshi&theme=tokyo-night&area=true&radius=14&hide_border=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokhodabakhshi&show_icons=true&theme=tokyonight)
 ## Contact
 
