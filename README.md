@@ -2,12 +2,16 @@
 
 Computer Science Student
 
-Interested in:
+### 🚀 Research Interests:
+- Computer Vision
+- Deep Learning
+- Multimodal AI
+- Autonomous Systems
+- AI for Aerospace and Defense Applications
 
-- Algorithms
-- Artificial Intelligence
-- Cryptography
-- Mathematics
+### 🖥 Skills
+
+- **Machine Learning and Deep Learning**
 
 # 📈 GitHub Activity
 
