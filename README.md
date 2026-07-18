@@ -8,6 +8,7 @@ Computer Science Student
 - Multimodal AI
 - Autonomous Systems
 - AI for Aerospace and Defense Applications
+- Quantum Computing
 
 ### 🖥 Skills
 
