@@ -12,7 +12,10 @@ Computer Science Student
 
 ### 🖥 Skills
 
+- **Python**
+- - **C/C++**
 - **Machine Learning and Deep Learning**
+- **Image Processing**
 
 # 📈 GitHub Activity
 
