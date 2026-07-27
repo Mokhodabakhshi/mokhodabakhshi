@@ -13,7 +13,7 @@ Computer Science Student
 ### 🖥 Skills
 
 - **Python**
-- - **C/C++**
+- **C/C++**
 - **Machine Learning and Deep Learning**
 - **Image Processing**
 
