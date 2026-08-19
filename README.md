@@ -17,20 +17,6 @@ Computer Science Student
 - **Machine Learning and Deep Learning**
 - **Image Processing**
 
-# 📈 GitHub Activity
-
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=mokhodabakhshi&theme=tokyo-night&area=true&radius=14&hide_border=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mokhodabakhshi/Mokhodabakhshi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mokhodabakhshi/Mokhodabakhshi/output/github-snake.svg" />
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/Mokhodabakhshi/Mokhodabakhshi/output/github-snake.svg" />
-</picture>
-
 ## Contact
 
 Email: mokhodabaakhshi@gmail.com
