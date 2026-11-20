@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Khodabakhshi </h1>
 
-Computer Science Student
-
 ### 🚀 Research Interests:
 - Computer Vision
 - Deep Learning
